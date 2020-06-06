@@ -3,3 +3,15 @@
 build/
 data/
 .DS_Store
+
+alice/build
+bob/build
+
+alice/.idea
+bob/.idea
+
+alice/bin
+bob/bin
+
+alice/.gradle
+bob/.gradle
